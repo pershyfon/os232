@@ -1,5 +1,11 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 
-ZCZC W00 10 L00 Check OS website
-ZCZC W00 100 L00 Classroom related
+ZCZC W00 10 L03 Github related
+ZCZC W00 10 L04 Github Pages related
+ZCZC W00 100 L02 Tuesday classroom
+ZCZC W00 100 L02 Thursday classroom
+ZCZC W00 75 L05 Quiz 1 related
+ZCZC W00 10 L08 Review Quiz 1 with friends
+ZCZC W00 60 L10 Reading assignment
+ZCZC W00 10 L41 TXT/mylog.txt related
