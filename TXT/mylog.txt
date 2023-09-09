@@ -9,3 +9,12 @@ ZCZC W00 75 L05 Quiz 1 related
 ZCZC W00 10 L08 Review Quiz 1 with friends
 ZCZC W00 60 L10 Reading assignment
 ZCZC W00 10 L41 TXT/mylog.txt related
+
+ZCZC W01 100 L02 Tuesday classroom
+ZCZC W01 120 L11 Setup Virtual Debian Guest
+ZCZC W01 100 L02 Thursday classroom
+ZCZC W01 90 L11 Pull/Push from Github
+ZCZC W01 60 Quiz 2 related
+ZCZC W01 60 L13 LINKS
+ZCZC W01 30 L14 Finishing
+ZCZC W01 10 L41 TXT/mylog.txt related
