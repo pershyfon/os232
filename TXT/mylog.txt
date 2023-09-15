@@ -1,11 +1,18 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 
+ZCZC W02 100 L02 Tuesday classroom
+ZCZC W02 100 L02 Thursday classroom
+ZCZC W02 75 L05 Quiz related
+ZCZC W02 180 L09 Assignment Week 02 + Log
+ZCZC W02 90 L05 Pop Quiz W02: Scele Scrap
+ZCZC W02 10 L03 Add, commit, and push assignment week 02 to Github
+
 ZCZC W01 100 L02 Tuesday classroom
 ZCZC W01 120 L11 Setup Virtual Debian Guest
 ZCZC W01 100 L02 Thursday classroom
 ZCZC W01 90 L11 Pull/Push from Github
-ZCZC W01 60 Quiz 2 related
+ZCZC W01 60 L05 Quiz 2 related
 ZCZC W01 60 L13 LINKS
 ZCZC W01 30 L14 Finishing
 ZCZC W01 10 L41 TXT/mylog.txt related
