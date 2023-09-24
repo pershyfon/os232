@@ -4,7 +4,11 @@
 ZCZC W03 100 L02 Tuesday classroom
 ZCZC W03 120 L09 Assignment Week 03
 ZCZC W03 30 L02 Thursday classroom
-ZCZC W03 90 L09 Assignment Week 03
+ZCZC W03 120 L09 Assignment Week 03
+ZCZC W03 120 L03 Pull, add, commit, and push assignment week 03 to Github
+ZCZC W03 75 L05 Quiz related
+ZCZC W03 60 L05 Pop Quiz W03
+ZCZC W03 60 L03 Add, commit, push assignment week 03 to Github
 
 ZCZC W02 100 L02 Tuesday classroom
 ZCZC W02 100 L02 Thursday classroom
