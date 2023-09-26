@@ -1,6 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 
+ZCZC W04 100 L02 Tuesday classroom
+ZCZC W04 60 L09 Assignment week 04
+ZCZC W04 75 L05 Quiz related
+
 ZCZC W03 100 L02 Tuesday classroom
 ZCZC W03 120 L09 Assignment Week 03
 ZCZC W03 30 L02 Thursday classroom
