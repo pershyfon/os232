@@ -5,10 +5,8 @@ permalink: LINKS/
 ## Week 01
 * [50 Linux Commands](https://www.javatpoint.com/linux-commands) 
   Top 50 most frequently used Linux commands with examples. As a cheat sheet for OS students.
-
 * [Bash Scripting Tutorials](https://www.learnshell.org/) 
   Tutorial on Bash scripting for Unix and Linux systems. The tutorial covers everything from basic scripting concepts to more advanced topics.
-
 * [The Basics of Using The Sed Stream Editor](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux) 
   Tutorial on how to use the sed command-line tool in Linux for text manipulation. This tutorial will teach you basic syntax, various commands, and practical examples for tasks like search and replace, text deletion, and more.
 ## Week 02
@@ -37,3 +35,6 @@ permalink: LINKS/
 * [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes) Operating system runs some processes in a program. This web page provides explanation about how exactly operating system executes process, its section, state, control block, and some terms in process.
 * [fork() Command](https://www.geeksforgeeks.org/fork-system-call/) Fork system call is used for creating a new process in Linux. More about fork() will be explained on this web page.
 * [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) The ability of operating system to run several programs at one time is called concurrency. More about concurrency in operating system will be explained on this web page.
+## Week 07
+* [Deadlock in Operation System](https://www.youtube.com/watch?v=UVo9mGARkhQ) This video explains the conditions of Deadlock. Simple snippets elucidate what's deadlock, how deadlock, real world OS scenarios of deadlock, and the 4 conditions a deadlock occurs in OS.
+* [Synchronization in Operation System](https://www.youtube.com/watch?v=eKKc0d7kzww) A 5 minutes video of synchronization process. The main point of this video is to learn about the critical region in process synchronization with real time example.

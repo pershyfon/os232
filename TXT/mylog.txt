@@ -1,5 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
+ZCZC W07 100 L02 Tuesday classroom
+ZCZC W07 120 L70 Study for Statprob quiz
+ZCZC W07 90 L09 Assignment week 07 & pop quiz
+ZCZC W07 60 L05 Quiz related
+
 ZCZC W06 100 L02 Tuesday classroom
 ZCZC W06 20 L09 Assignment week 06
 ZCZC W06 30 L08 Asking for friend's help
