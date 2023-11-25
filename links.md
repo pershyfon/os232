@@ -40,3 +40,5 @@ permalink: LINKS/
 * [Synchronization in Operation System](https://www.youtube.com/watch?v=eKKc0d7kzww) A 5 minutes video of synchronization process. The main point of this video is to learn about the critical region in process synchronization with real time example.
 ## Week 08
 * [Introduction to Linux from Scratch](http://www.linuxfromscratch.org/lfs/introduction.html) This page introduces Linux from scratch and reason to build Linux from scratch. This page also explains the benefit and drawback of building Linux from scratch.
+## Week 09
+* [Linux from Scratch](https://www.linuxfromscratch.org/lfs/) This is an official page of "Linux from Scratch" (LFS). The page provides guidance step by step to build your own Linux distribution.
